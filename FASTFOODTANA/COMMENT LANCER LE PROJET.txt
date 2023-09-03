@@ -1,0 +1,8 @@
+1er ETAPE :
+Ouvrir le dossier dans VSCODE
+
+2eme ETAPE : 
+Ouvrir terminal et taper : CD FASTFOODTANA
+
+3eme ETAPE : 
+Puis taper : python manage.py runserver : pour lancer le projet
